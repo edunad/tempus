@@ -1,5 +1,7 @@
 # Tempus
 Made for global game jam theme : What does home mean to you.
+Check it out here : https://globalgamejam.org/2019/games/tempus
+
 We were 6 people from different countries : 
 - Portugal
 - France
